@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+#include "game.h"
 
 void clearBuffer() {
     int c;  // we don't actually need the value of this
