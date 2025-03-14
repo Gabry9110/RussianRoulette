@@ -1,5 +1,5 @@
 # Russian roulette simulator in various programming languages
----
+
 **WARNING: Very unprofessional/informal project!!!**
 
 Trying to make a russian roulette simulator in many programming languages
@@ -11,7 +11,7 @@ Every language used is going to have its own folder with all the source files in
 The only purposes for this "project" are to demonstrate the languages, to practice and (most importantly) for personal reference.
 
 Why specifically a russian roulette simulator and not something else? death is fun i guess
----
+
 # Features (planned/not planned) and todos
 - [ ] Greeter/mode choser
 - [ ] Multiple modes
